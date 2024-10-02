@@ -1,0 +1,6 @@
+/Users/mert/Learning/DotNet/CSharpEgitimCampi/01_MainSubjects/bin/Debug/_01_MainSubjects.exe
+/Users/mert/Learning/DotNet/CSharpEgitimCampi/01_MainSubjects/bin/Debug/_01_MainSubjects.pdb
+/Users/mert/Learning/DotNet/CSharpEgitimCampi/01_MainSubjects/obj/Debug/01_MainSubjects.csproj.AssemblyReference.cache
+/Users/mert/Learning/DotNet/CSharpEgitimCampi/01_MainSubjects/obj/Debug/01_MainSubjects.csproj.CoreCompileInputs.cache
+/Users/mert/Learning/DotNet/CSharpEgitimCampi/01_MainSubjects/obj/Debug/_01_MainSubjects.exe
+/Users/mert/Learning/DotNet/CSharpEgitimCampi/01_MainSubjects/obj/Debug/_01_MainSubjects.pdb

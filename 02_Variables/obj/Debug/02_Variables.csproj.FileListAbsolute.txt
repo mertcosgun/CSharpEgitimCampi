@@ -1,0 +1,6 @@
+/Users/mert/Learning/DotNet/CSharpEgitimCampi/02_Variables/bin/Debug/_02_Variables.exe
+/Users/mert/Learning/DotNet/CSharpEgitimCampi/02_Variables/bin/Debug/_02_Variables.pdb
+/Users/mert/Learning/DotNet/CSharpEgitimCampi/02_Variables/obj/Debug/02_Variables.csproj.AssemblyReference.cache
+/Users/mert/Learning/DotNet/CSharpEgitimCampi/02_Variables/obj/Debug/02_Variables.csproj.CoreCompileInputs.cache
+/Users/mert/Learning/DotNet/CSharpEgitimCampi/02_Variables/obj/Debug/_02_Variables.exe
+/Users/mert/Learning/DotNet/CSharpEgitimCampi/02_Variables/obj/Debug/_02_Variables.pdb
